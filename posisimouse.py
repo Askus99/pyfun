@@ -1,4 +1,5 @@
 #! python 3
+# Read the doc
 import pyautogui as gui
 
 
